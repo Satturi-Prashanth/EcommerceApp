@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-    <sonar.host.url>http://your-sonarqube-server.com</sonar.host.url>
-    <sonar.login>your-sonarqube-token</sonar.login>
-    <sonar.password>your-sonarqube-password</sonar.password>
+    <sonar.host.url>http://47.129.235.139:9000/</sonar.host.url>
+    <sonar.login>admin</sonar.login>
+    <sonar.password>sathuri@123</sonar.password>
   </properties>
   
   <dependencies>
